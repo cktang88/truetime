@@ -8,7 +8,7 @@ Estimate "real" time in _very_ adverse conditions:
 **Warning: this is experimental, use at your own risk.**
 
 
-### Aassumptions
+### Assumptions
 - Assumes system interacts w/ temp directory files on a roughly continuous and consistent basis.
 
 ### How it works
