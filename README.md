@@ -1,7 +1,7 @@
 # truetime
-Estimate "real" time in _very_ adverse conditions:
+Cross-platform estimate of "true" time in _very_ adverse conditions:
 - offline
-- system clock cannot be trusted (eg. user keeps changing the time forwards and/or backwards in time).
+- unreliable/untrusted system local time (eg. user keeps changing the time forwards and/or backwards in time).
   - user may also shut down/put to sleep/hibernate system for abnormal periods of time.
 - this script is _NOT_ running in the background, and only allowed to run occasionally.
 
