@@ -7,6 +7,11 @@ Cross-platform estimate of "true" time in _very_ adverse conditions:
 
 **Warning: this is experimental, use at your own risk.**
 
+### Usage
+```bash
+pip3 install uptime, ntplib
+python3 ./main.py
+```
 
 ### Assumptions
 - Assumes system interacts w/ temp directory files on a roughly continuous and consistent basis.
