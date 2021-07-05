@@ -9,7 +9,9 @@ Cross-platform estimate of "true" time in _very_ adverse conditions:
 
 ### Usage
 ```bash
-pip3 install uptime, ntplib
+# install deps
+pip3 install uptime ntplib
+# run script
 python3 ./main.py
 ```
 
